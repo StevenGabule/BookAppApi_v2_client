@@ -1,0 +1,143 @@
+{
+  "status": "success",
+  "count": 8,
+  "message": "Books retrieved",
+  "data": [
+    {
+      "id": 1,
+      "title": "javascript eloquent 2",
+      "price": "2500.55",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "userId": 2,
+      "createdAt": "2020-09-11T12:11:18.803Z",
+      "updatedAt": "2020-09-11T12:11:18.803Z",
+      "User": {
+        "id": 2,
+        "name": "johnpaul",
+        "email": "johnpaul@gmail.com",
+        "password": "$2a$08$EZfiOAkQBLDArP9U3T6MseaZckHl7CzztOCJTGcuXDHDOUNFgna2S",
+        "createdAt": "2020-09-11T12:11:15.759Z",
+        "updatedAt": "2020-09-11T12:11:15.759Z"
+      }
+    },
+    {
+      "id": 2,
+      "title": "javascript eloquent 1",
+      "price": "2500.55",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "userId": 2,
+      "createdAt": "2020-09-11T12:11:24.110Z",
+      "updatedAt": "2020-09-11T12:11:24.110Z",
+      "User": {
+        "id": 2,
+        "name": "johnpaul",
+        "email": "johnpaul@gmail.com",
+        "password": "$2a$08$EZfiOAkQBLDArP9U3T6MseaZckHl7CzztOCJTGcuXDHDOUNFgna2S",
+        "createdAt": "2020-09-11T12:11:15.759Z",
+        "updatedAt": "2020-09-11T12:11:15.759Z"
+      }
+    },
+    {
+      "id": 3,
+      "title": "javascript eloquent 3",
+      "price": "2500.55",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "userId": 2,
+      "createdAt": "2020-09-11T12:11:27.326Z",
+      "updatedAt": "2020-09-11T12:11:27.326Z",
+      "User": {
+        "id": 2,
+        "name": "johnpaul",
+        "email": "johnpaul@gmail.com",
+        "password": "$2a$08$EZfiOAkQBLDArP9U3T6MseaZckHl7CzztOCJTGcuXDHDOUNFgna2S",
+        "createdAt": "2020-09-11T12:11:15.759Z",
+        "updatedAt": "2020-09-11T12:11:15.759Z"
+      }
+    },
+    {
+      "id": 4,
+      "title": "php eloquent 3",
+      "price": "500.55",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "userId": 1,
+      "createdAt": "2020-09-11T12:11:36.493Z",
+      "updatedAt": "2020-09-11T12:11:36.493Z",
+      "User": {
+        "id": 1,
+        "name": "mikeross_",
+        "email": "mikeross_@gmail.com",
+        "password": "$2a$08$Los/bwyAhikcP/d58O3cjuTj9RyKqH0eQXrF21nAxBcYf/OzDwLbu",
+        "createdAt": "2020-09-11T12:10:59.791Z",
+        "updatedAt": "2020-09-11T12:10:59.791Z"
+      }
+    },
+    {
+      "id": 5,
+      "title": "php eloquent 3",
+      "price": "500.55",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "userId": 2,
+      "createdAt": "2020-09-11T12:11:39.115Z",
+      "updatedAt": "2020-09-11T12:11:39.115Z",
+      "User": {
+        "id": 2,
+        "name": "johnpaul",
+        "email": "johnpaul@gmail.com",
+        "password": "$2a$08$EZfiOAkQBLDArP9U3T6MseaZckHl7CzztOCJTGcuXDHDOUNFgna2S",
+        "createdAt": "2020-09-11T12:11:15.759Z",
+        "updatedAt": "2020-09-11T12:11:15.759Z"
+      }
+    },
+    {
+      "id": 6,
+      "title": "php eloquent 1",
+      "price": "500.55",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "userId": 2,
+      "createdAt": "2020-09-11T12:11:54.855Z",
+      "updatedAt": "2020-09-11T12:11:54.855Z",
+      "User": {
+        "id": 2,
+        "name": "johnpaul",
+        "email": "johnpaul@gmail.com",
+        "password": "$2a$08$EZfiOAkQBLDArP9U3T6MseaZckHl7CzztOCJTGcuXDHDOUNFgna2S",
+        "createdAt": "2020-09-11T12:11:15.759Z",
+        "updatedAt": "2020-09-11T12:11:15.759Z"
+      }
+    },
+    {
+      "id": 7,
+      "title": "php eloquent 2",
+      "price": "500.55",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "userId": 2,
+      "createdAt": "2020-09-11T12:11:58.262Z",
+      "updatedAt": "2020-09-11T12:11:58.262Z",
+      "User": {
+        "id": 2,
+        "name": "johnpaul",
+        "email": "johnpaul@gmail.com",
+        "password": "$2a$08$EZfiOAkQBLDArP9U3T6MseaZckHl7CzztOCJTGcuXDHDOUNFgna2S",
+        "createdAt": "2020-09-11T12:11:15.759Z",
+        "updatedAt": "2020-09-11T12:11:15.759Z"
+      }
+    },
+    {
+      "id": 8,
+      "title": "php eloquent 12",
+      "price": "520.55",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "userId": 1,
+      "createdAt": "2020-09-11T12:14:10.143Z",
+      "updatedAt": "2020-09-11T12:14:10.143Z",
+      "User": {
+        "id": 1,
+        "name": "mikeross_",
+        "email": "mikeross_@gmail.com",
+        "password": "$2a$08$Los/bwyAhikcP/d58O3cjuTj9RyKqH0eQXrF21nAxBcYf/OzDwLbu",
+        "createdAt": "2020-09-11T12:10:59.791Z",
+        "updatedAt": "2020-09-11T12:10:59.791Z"
+      }
+    }
+  ]
+}
